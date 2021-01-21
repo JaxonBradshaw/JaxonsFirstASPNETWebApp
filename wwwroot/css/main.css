@@ -1,0 +1,18 @@
+﻿body {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label {
+	font-size: 20px;
+	color: cornflowerblue;
+	width: 150px;
+	display: inline-block;
+}
+
+ul.quiz-prompts {
+	list-style-type: none;
+}
+h2 {
+	color: firebrick;
+	font-style: italic;
+}
